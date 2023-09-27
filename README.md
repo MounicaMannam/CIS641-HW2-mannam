@@ -8,7 +8,7 @@
     <p style="font-size: 15px;">&#x1F4DEPhone number: +1 1234567890</p>
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="C:\Users\LENOVO\OneDrive\Desktop\MS\Fall2023\641\Assignment 2\CIS641-HW2-mannam\pic\1.jpeg"style="border-radius: 50%;" width="150" height="150" />
+    <img src="C:\Users\LENOVO\OneDrive\Desktop\MS\Fall2023\641\Assignment 2\CIS641-HW2-mannam\1.jpeg"style="border-radius: 50%;" width="150" height="150" />
   </div>
 </div>
 
