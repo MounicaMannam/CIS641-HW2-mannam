@@ -3,12 +3,12 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <p><h4>Contact Info</h4></p>
-    <p style="font-size: 14px;"> &#x1F4E7 Email: <a href="mailto:mounicasrinivas2000@gmail.com">mounicasrinivas2000@gmail.com</a></p>
-    <p style="font-size: 14px;">&#x1F419Github: <a href="https://github.com/MounicaMannam">https://github.com/MounicaMannam</a></p>
-    <p style="font-size: 15px;">&#x1F4DEPhone number: +1 1234567890</p>
+    <p style="font-size: 14px;"> &#x1F4E7; Email: <a href="mailto:mounicasrinivas2000@gmail.com">mounicasrinivas2000@gmail.com</a></p>
+    <p style="font-size: 14px;">&#x1F419;Github: <a href="https://github.com/MounicaMannam">https://github.com/MounicaMannam</a></p>
+    <p style="font-size: 15px;">&#x1F4DE;Phone number: +1 1234567890</p>
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="C:\Users\LENOVO\OneDrive\Desktop\MS\Fall2023\641\Assignment 2\CIS641-HW2-mannam\1.jpeg"style="border-radius: 50%;" width="150" height="150" />
+    <img src="https://drive.google.com/file/d/162nsgYlygLWutV6RGDYnXtij5vfChPzy/view?usp=sharing"style="border-radius: 50%;" width="150" height="150" />
   </div>
 </div>
 
