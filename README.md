@@ -2,7 +2,7 @@
 <h4 align="center">MOUNICA MANNAM</h4>
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <p><h4>Contact Info</p></h4>
+    <p><h4>Contact Info</h4></p>
     <p style="font-size: 14px;"> &#x1F4E7 Email: <a href="mailto:mounicasrinivas2000@gmail.com">mounicasrinivas2000@gmail.com</a></p>
     <p style="font-size: 14px;">&#x1F419Github: <a href="https://github.com/MounicaMannam">https://github.com/MounicaMannam</a></p>
     <p style="font-size: 15px;">&#x1F4DEPhone number: +1 1234567890</p>
