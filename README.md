@@ -8,7 +8,7 @@
     <p style="font-size: 15px;">&#x1F4DE;Phone number: +1 1234567890</p>
   </div>
   <div style="flex: 1; text-align: right;">
-<img src="https://www.pngitem.com/pimgs/m/146-1468479_my-profile-icon-blank-profile-picture-circle-hd.png"style="border-radius: 50%;" width="150" height="150" /></img>
+<img src="pic\1.jpg"style="border-radius: 50%;" width="150" height="150" /></img>
   </div>
 </div>
 
