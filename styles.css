@@ -9,7 +9,7 @@ body {
 .container {
     max-width: 800px;
     margin: 0 auto;
-    background-color: #f0f0f0;
+    background-color: #525050;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -39,7 +39,7 @@ body {
 }
 
 .contact-info a {
-    color: #a07676;
+    color: #9f2b2b;
     text-decoration: none;
 }
 
