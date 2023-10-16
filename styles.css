@@ -15,53 +15,6 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-h1, h2, h3, h4, h5, h6 {
-    color: #333;
-}
-
-h1 {
-    font-size: 2em;
-}
-
-h2 {
-    font-size: 1.5em;
-}
-
-h3 {
-    font-size: 1.2em;
-}
-
-h4 {
-    font-size: 1.1em;
-}
-
-h5, h6 {
-    font-size: 1em;
-}
-
-p {
-    margin-bottom: 1em;
-}
-
-ul {
-    list-style-type: disc;
-    margin-bottom: 1em;
-}
-
-a {
-    color: #007bff;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
-}
-
 .center {
     text-align: center;
 }
@@ -72,30 +25,46 @@ img {
     justify-content: space-between;
 }
 
+.contact-info,
+.profile-pic {
+    flex: 1;
+}
+
+.contact-info p {
+    font-size: 14px;
+}
+
+.contact-info a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
+
 .profile-image {
     border-radius: 50%;
 }
 
-.card {
-    border: none;
-    background-color: #f8f9fa;
+.section {
+    margin-top: 20px;
 }
 
-.card-title {
+.section h2 {
     color: #007bff;
+}
+
+.section h4 {
     font-size: 1.2em;
 }
 
-.card-text {
-    font-size: 1em;
+.section ul {
+    list-style-type: disc;
+    margin-bottom: 1em;
 }
 
-.card ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-.card ul li {
+.section ul li {
     margin-bottom: 0.5em;
 }
 
@@ -103,8 +72,4 @@ img {
     margin-top: 2em;
     text-align: center;
     font-size: 0.8em;
-}
-
-.footer a {
-    color: #333;
 }
