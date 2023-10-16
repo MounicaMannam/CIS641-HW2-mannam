@@ -3,13 +3,13 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color:  #a1c5d3;
+    background-color:  #d5ebdb;
 }
 
 .container {
     max-width: 800px;
     margin: 0 auto;
-    background-color: #8e888b;
+    background-color: #686566;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -39,7 +39,7 @@ body {
 }
 
 .contact-info a {
-    color: #979e84;
+    color: #a07676;
     text-decoration: none;
 }
 
