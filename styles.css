@@ -3,13 +3,13 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f0fff6;
+    background-color:  #008000;
 }
 
 .container {
     max-width: 800px;
     margin: 0 auto;
-    background-color: #f0f0f0;
+    background-color: #ff69b4;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -25,10 +25,14 @@ body {
     justify-content: space-between;
 }
 
-.contact-info,
 .profile-pic {
     flex: 1;
 }
+
+.contact-info {
+    flex: 1;
+}
+
 
 .contact-info p {
     font-size: 14px;
