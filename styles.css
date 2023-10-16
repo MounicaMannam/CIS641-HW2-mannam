@@ -7,9 +7,9 @@ body {
 }
 
 .container {
-    max-width: 800px;
+    max-width: 1000px;
     margin: 0 auto;
-    background-color: #525050;
+    background-color: #a3a5a6;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -39,7 +39,7 @@ body {
 }
 
 .contact-info a {
-    color: #9f2b2b;
+    color: #f2ebeb;
     text-decoration: none;
 }
 
@@ -61,6 +61,7 @@ body {
 
 .section h4 {
     font-size: 1.2em;
+    color: #ccdfac;
 }
 
 .section ul {
